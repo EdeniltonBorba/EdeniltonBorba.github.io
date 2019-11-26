@@ -171,6 +171,11 @@ footer {
 
 /*contact*/
 
+.msgAlert {
+  background: red;
+  color: white;
+}
+
 #contact-form ul {
     margin-bottom: 20px;    
 }
@@ -201,7 +206,7 @@ textarea {
 }
 
 input[type=submit] {
-    background: #4aaaa5;
+    background: #6d7070;
     border: 0 none;
     color: #ffffff;
     font-size: 18px;
