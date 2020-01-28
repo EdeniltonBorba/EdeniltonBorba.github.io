@@ -1,3 +1,4 @@
+/*
 * {
     box-sizing: border-box;
 }
@@ -17,7 +18,7 @@ body {
     clear: both;
 }
 
-/*header*/
+
 
 #masthead {
     background: black;
@@ -89,7 +90,7 @@ h2,h3 {
     font-size: 22px;
 }
 
-/*main*/
+
 
 p {
   font-size: 16px;
@@ -131,7 +132,6 @@ footer {
     text-align: center;
 }
 
-/*portfolio*/
 
 .work {
     width: 427px;
@@ -169,7 +169,7 @@ footer {
     font-weight: 300;
 }
 
-/*contact*/
+
 
 .msgAlert {
   background: red;
@@ -349,4 +349,13 @@ input[type=submit] {
     #contact-form ul {
     list-style: none;
     }
+}
+
+*/
+
+.container-fluid {
+  height: 1024px;
+  margin: 0 auto;
+  clear: both;
+  background-color: #343a40;
 }
