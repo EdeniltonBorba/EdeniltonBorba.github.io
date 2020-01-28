@@ -354,8 +354,34 @@ input[type=submit] {
 */
 
 .container-fluid {
-  height: 1024px;
+  height: 740px;
   margin: 0 auto;
   clear: both;
   background-color: #343a40;
+  
+  
+}
+
+h1{
+  text-align: center;
+}
+
+mark{
+  background-color: rgb(204, 81, 65);
+}
+
+#name{
+  background-color: rgb(230, 184, 59);
+}
+
+#massage{
+  background-color: rgb(72, 104, 248);
+}
+
+#small{
+  background-color: rgb(85, 175, 73);
+}
+
+.card-body {
+  margin-top: 180px
 }
