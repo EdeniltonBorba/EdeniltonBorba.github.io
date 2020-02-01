@@ -372,6 +372,7 @@ mark{
 
 #name{
   background-color: rgb(230, 184, 59);
+  font-size: 50px;
 }
 
 #massage{
@@ -384,4 +385,12 @@ mark{
 
 .card-body {
   margin-top: 180px
+}
+
+.card-title {
+font-size: 40px;
+}
+
+h5 {
+
 }
