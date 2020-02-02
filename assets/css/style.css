@@ -57,9 +57,28 @@ font-size: 40px;
   letter-spacing: 0.3ch;
   background: #ffffff;
   position: relative;
-  margin-top: 30px;
+  margin: 20px 0 60px 0;
 }
 
 .title-about {
   font-size: 40px;
+}
+
+.card-cv{
+  width:100%; 
+  margin-top:5%; 
+  text-align:center;
+}
+
+  
+.one {
+  border:solid 5px rgb(204, 81, 65);
+  display:inline-block;
+  margin: auto;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  padding:1em;
+  line-height:1.5em;
+  background:hsla(67, 95%, 95%, 1);
+  margin: 0 40px 0 40px;
+
 }
