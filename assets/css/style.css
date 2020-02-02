@@ -1,15 +1,18 @@
 
 
 
-.container-fluid {
+#home {
   height: 740px;
   margin: 0 auto;
   clear: both;
   background-color: #343a40;
-  
-  
 }
 
+.container-fluid {
+  height: 740px;
+  margin: 0 auto;
+  clear: both;
+}
 h1{
   text-align: center;
 }
@@ -44,6 +47,19 @@ mark{
 font-size: 40px;
 }
 
-h5 {
+.sketchy {
+  padding: 2rem 4rem;
+  display: inline-block;
+  border: 3px solid #333333;
+  font-size: 1.0rem;
+  border-radius: 2% 6% 5% 4% / 1% 1% 2% 4%;
+  text-transform: uppercase;
+  letter-spacing: 0.3ch;
+  background: #ffffff;
+  position: relative;
+  margin-top: 30px;
+}
 
+.title-about {
+  font-size: 40px;
 }
