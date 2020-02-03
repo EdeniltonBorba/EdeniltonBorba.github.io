@@ -82,3 +82,11 @@ font-size: 40px;
   margin: 0 40px 0 40px;
 
 }
+
+#contact {
+  height: 740px;
+  margin: 0 auto;
+  clear: both;
+  background-color: #343a40;
+  
+}
