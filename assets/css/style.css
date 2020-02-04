@@ -91,6 +91,14 @@ font-size: 40px;
   
 }
 
+#portfolio {
+  height: 740px;
+  margin: 0 auto;
+  clear: both;
+  background-color: #343a40;
+  text-align: center;
+  
+}
 .card-contact {
   font-size: 20px;
 }
